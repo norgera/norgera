@@ -1,1 +1,3 @@
-see my [website][https://norgera.github.io/] for more about me!
+see my [website] for more about me!
+
+[website]: https://norgera.github.io/
